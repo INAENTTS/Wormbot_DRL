@@ -2,7 +2,7 @@
 Aiming to learn deep reinforcement learning and apply it on a bot to achive a optimal crawling action
 
 ! About the robot:
-Its a pair of three servo motors connected in series 
+Its a pair of three servo motors connected in series..
 There motion is restricted in 2 dimensions ( in vertical plane)
   
 ! About the environment
