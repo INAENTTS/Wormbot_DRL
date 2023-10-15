@@ -1,4 +1,4 @@
-# Motion_Planing_with_DRL
+# Applying_DRL_on_Hardware
 
 Aiming to learn deep reinforcement learning and apply it on a bot to achive a optimal crawling action
 
