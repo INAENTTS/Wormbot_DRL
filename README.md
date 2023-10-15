@@ -1,6 +1,6 @@
 # Applying_DRL_on_Hardware
 
-Aiming to learn deep reinforcement learning and apply it on a bot to achive a optimal crawling action
+aim to learn deep reinforcement learning algorithms and their implementation on hardware test beds.
 
 # About the robot:
 
