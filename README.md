@@ -1,21 +1,32 @@
-# Applying_DRL_on_Hardware
+# Wormbot
 
-aim to learn deep reinforcement learning algorithms and their implementation on hardware test beds.
+A snake_type robot with four links and three rvolute joints. Here aim is to make the robot to learn how to move in one direction using deep reinforcemt learning.
 
-# About the robot:
+# More about the robot:
 
+Hardware
+  
   Its a pair of three servo motors connected in series.
 
-  There motion is restricted in 2 dimensions ( in vertical plane)
+  There motion is restricted in 2 dimensions ( in vertical plane).
+
+URDF
+
+  to train the agent using pybullet. [URDF_file]()
+  
+  ![Alt text](![Screenshot (17)](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/7868a1d3-4d5c-4331-95b3-7ee004e510e7))
   
 # About the environment
 
-  *state (observation): list of angles of the three motors
+  *state (observation): array of the the servo angles and four orientation Parameters, shape(7,) 
 
-  *Reward: positive distance moved
+  *Reward: distance moved
 
-  *Action: for each motor rotate ( still:0, clocwise:1, anti clockwise:2). example action=[0,0,0] : ( motor 1 still,motor2 still,motor3 still)
+  *Action: array of three angles of servo (continuous)
 
 # setup
 
-  camera is used to track a point on robot to calculate the distance moved 
+for Hardware taining
+
+  camera is used to track the robot using opencv to calculate the distance moved.
+  
