@@ -15,7 +15,8 @@ URDF
   to train the agent using pybullet. [URDF_file]()
   
   ![wormbot v2 1](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/4644c392-0eed-4d92-9093-0fb31d0a04f2)
-  ![image](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/a7d0a32b-ae98-4c60-b997-3c5e30f58067)
+  ![image](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/921acde8-b6c0-4d40-84ad-31eda0ac2fd2)
+
 
 
   
