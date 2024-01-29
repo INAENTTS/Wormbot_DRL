@@ -19,11 +19,11 @@ URDF
   ![image](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/921acde8-b6c0-4d40-84ad-31eda0ac2fd2)
 
 # Training videos
-  [training_2](https://drive.google.com/file/d/1ARtvP1hAl0Pn15aI-MgWzE-2551VbNnb/view?usp=drive_link)
-  
-  [training_1](https://drive.google.com/file/d/1ihMBOIwtcbOCC8-D60fGsqv9S7IOb4bw/view?usp=drive_link)
-
   [training_3_crawling_motion_achived](https://drive.google.com/file/d/1Kd8SF0clKcZI4au7lCsmGXWShbYdoZT3/view?usp=sharing)
+
+  [training_2_short_jump](https://drive.google.com/file/d/1ARtvP1hAl0Pn15aI-MgWzE-2551VbNnb/view?usp=drive_link)
+  
+  [training_1_long_jump](https://drive.google.com/file/d/1ihMBOIwtcbOCC8-D60fGsqv9S7IOb4bw/view?usp=drive_link)
   
 # About the environment
 
