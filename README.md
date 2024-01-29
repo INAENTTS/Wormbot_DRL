@@ -22,6 +22,8 @@ URDF
   [training_2](https://drive.google.com/file/d/1ARtvP1hAl0Pn15aI-MgWzE-2551VbNnb/view?usp=drive_link)
   
   [training_1](https://drive.google.com/file/d/1ihMBOIwtcbOCC8-D60fGsqv9S7IOb4bw/view?usp=drive_link)
+
+  [training_3_crawling_motion_achived](https://drive.google.com/file/d/1Kd8SF0clKcZI4au7lCsmGXWShbYdoZT3/view?usp=sharing)
   
 # About the environment
 
