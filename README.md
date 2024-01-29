@@ -40,4 +40,8 @@ URDF
   - camera is used to track the robot using opencv to calculate the distance moved.
 
   - Accelerometers, gyroscopes to get orientation is needed (MPU6050)
-  
+
+  ![Screenshot_2024-01-30-01-42-03-79_92460851df6f172a4592fca41cc2d2e6](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/0437134b-e111-46d4-b9ca-8eda9f8f3d30)
+
+  [training_on_hardware_video](https://drive.google.com/file/d/11Kz8HPsa5_QGHIyYMeIaAgJRQUPnJ-T1/view?usp=sharing)
+
