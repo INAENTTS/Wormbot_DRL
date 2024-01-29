@@ -37,5 +37,7 @@ URDF
 
 - For Hardware taining
 
-  camera is used to track the robot using opencv to calculate the distance moved.
+  - camera is used to track the robot using opencv to calculate the distance moved.
+
+  - Accelerometers, gyroscopes to get orientation is needed (MPU6050)
   
