@@ -29,8 +29,8 @@ URDF
 
   - state (observation): array of the the servo angles and four orientation Parameters, shape(7,) 
 
-  - Reward: distance moved
-
+  - Reward: Radial distance moved away form origin gives positive reward
+    
   - Action: array of three angles of servo (continuous)
 
 # setup
