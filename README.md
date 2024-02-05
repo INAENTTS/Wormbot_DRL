@@ -1,16 +1,14 @@
 # Wormbot
 
-  A snake_type robot with four links and three rvolute joints. Here aim is to make the robot to learn how to move in one direction using deep reinforcemt learning.
+  A snake type robot with four links and three rvolute joints. Aim is to make the robot to learn how to move in one direction using deep reinforcemt learning.
 
-# More about the robot:
-
-Hardware
+# Hardware
   
   - Its a pair of three servo motors connected in series.
 
   - There motion is restricted in 2 dimensions ( in vertical plane).
 
-URDF
+# URDF
 
   to train the agent using pybullet. [URDF_file]()
   
