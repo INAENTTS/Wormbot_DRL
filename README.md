@@ -25,8 +25,8 @@
 
   | State Space  | Three angles of joints and four orientation Parameters (continuous)| shape(7,) |
   | ------------- | ------------- |------------|
-  | Reward  | Distance moved form the origin ( away : +ve , toward origin : -ve)  | shape(1,)
   | Action  | angles of servo (-85 <sup>o</sup>, +85 <sup>o</sup>) normalised to (-1, 1) (continuous) | shape(3,)|
+  | Reward  | Distance moved form the origin ( away : +ve , toward origin : -ve)  | shape(1,)|
 
 # Setup
 
