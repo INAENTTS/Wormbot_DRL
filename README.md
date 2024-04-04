@@ -1,6 +1,6 @@
 # Wormbot_DRL
 
-  A snake type robot with four links and three revolute joints. Aim is to make the robot to learn how to move in one direction using deep reinforcemt learning.
+  A snake type robot with four links and three revolute joints. Aim is to make the robot to learn how to move in one direction using deep reinforcement learning.
 
 | Result achieved | ![Wormbot_hardware_run](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/8cb754b0-67f5-4d00-a3f1-abffe47d0555) |
 |------------------|-----------|
