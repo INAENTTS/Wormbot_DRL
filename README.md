@@ -5,6 +5,10 @@
 | Result achieved | ![Wormbot_hardware_run](https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/8cb754b0-67f5-4d00-a3f1-abffe47d0555) |
 |------------------|-----------|
 
+# Mean Reward
+
+  <img width="785" alt="image" src="https://github.com/INAENTTS/Wormbot_DRL/assets/120380768/41fd4942-ea27-4e03-8c11-c9a24d69df39">
+
 
 # URDF
 
